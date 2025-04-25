@@ -1,2 +1,2 @@
 # Texas-Hold-em-MC-Simulator
-Implementation of of Monte Carlo algorithm to simulate Texas Hold'em
+Implementation of a Monte Carlo algorithm to simulate Texas Hold'em
